@@ -11,8 +11,7 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
+}s
 
 * {
   margin: 0;
@@ -80,6 +79,4 @@ button:focus-visible {
     color: #747bff;
   }
   button {
-    background-color: #f9f9f9;
-  }
 }
